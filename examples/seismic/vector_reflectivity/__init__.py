@@ -1,0 +1,4 @@
+from examples.seismic.vector_reflectivity.operators import ForwardOperator
+from examples.seismic.vector_reflectivity.wavesolver import VectorReflectivityAcousticWaveSolver
+from examples.seismic.vector_reflectivity.vector_reflectivity_example import vector_reflectivity_setup
+from examples.seismic.vector_reflectivity.plotting import plot_model
